@@ -23,3 +23,11 @@
 1. [国家天元数学东南中心 短期课程] **《深度学习与科学计算的结合：基础与提高》** [课程介绍](http://tianyuan.xmu.edu.cn/cn/MiniCourses/637.html), [视频](https://www.bilibili.com/video/BV1B3411j7of/)
 2. [MIT Course] **Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications**. [Homepage](https://book.sciml.ai/)
 3. [pytorch课程实战] **《pytorch课程实战，进阶》** [视频](https://www.bilibili.com/video/BV1id4y1i7C7/)
+
+
+### Applied Papers
+
+#### Traffic Related
+1. Transformer-based map-matching model with limited labeled data using transfer-learning approach, *Transportation Research Part C: Emerging Technologies*, [paper](https://doi.org/10.1016/j.trc.2022.103668)
+2. A deep map transfer learning method for face recognition in an unrestricted smart city environment, *Sustainable Energy Technologies and Assessments*, [paper](https://doi.org/10.1016/j.seta.2022.102207)
+3. Solving maximum weighted matching on large graphs with deep reinforcement learning, *Information Sciences*, [paper](https://doi.org/10.1016/j.ins.2022.10.021)
