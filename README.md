@@ -23,6 +23,7 @@
 1. [国家天元数学东南中心 短期课程] **《深度学习与科学计算的结合：基础与提高》** [课程介绍](http://tianyuan.xmu.edu.cn/cn/MiniCourses/637.html), [视频](https://www.bilibili.com/video/BV1B3411j7of/)
 2. [MIT Course] **Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications**. [Homepage](https://book.sciml.ai/)
 3. [pytorch课程实战] **《pytorch课程实战，进阶》** [视频](https://www.bilibili.com/video/BV1id4y1i7C7/)
+4. 
 
 
 ### Applied Papers
