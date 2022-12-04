@@ -3,7 +3,7 @@
 #### Surveys
 1. A critical review of real-time map-matching algorithms: Current issues and future directions,*Computers, Environment and Urban Systems,2014*,[paper](https://www.sciencedirect.com/science/article/pii/S0198971514000908)
 2. A Survey and Quantitative Study on Map Inference Algorithms From GPS Trajectories,*IEEE Transactions on Knowledge and Data Engineering,2022*,[paper](https://ieeexplore.ieee.org/document/9017965)
-3. 
+
 #### EN
 1. Some map matching algorithms for personal navigation assistants,*Transportation Research Part C,2000*,[paper](https://trid.trb.org/view/668842)
 1. Highway map matching algorithm based on floating car data, *2012 IEEE International Geoscience and Remote Sensing Symposium,2012*, [paper](https://ieeexplore.ieee.org/document/6352245)
@@ -27,7 +27,8 @@
 
 ### Tutorials
 
-
+1.图神经网络（GNN）,[WEB](https://www.bilibili.com/video/BV1K5411H7EQ/?spm_id_from=333.999.0.0&vd_source=7d4bc65accf41d3d801c3dc2a2dce207),[Code](https://github.com/shenweichen/GraphEmbedding)
+2.强化学习，[WEB](https://www.bilibili.com/video/BV1XP4y1d7Bk/?spm_id_from=333.337.search-card.all.click&vd_source=7d4bc65accf41d3d801c3dc2a2dce207)
 
 ### Applied Papers
 
