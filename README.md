@@ -1,6 +1,8 @@
 ## Map-Matching
 
-### Surveys
+#### Surveys
+1. A critical review of real-time map-matching algorithms: Current issues and future directions,*Computers, Environment and Urban Systems,2014*,[paper](https://www.sciencedirect.com/science/article/pii/S0198971514000908)
+2. A Survey and Quantitative Study on Map Inference Algorithms From GPS Trajectories,*IEEE Transactions on Knowledge and Data Engineering,2022*[paper](https://ieeexplore.ieee.org/document/9017965)
 #### EN
 1. Highway map matching algorithm based on floating car data, *2012 IEEE International Geoscience and Remote Sensing Symposium,2012*, [paper](https://ieeexplore.ieee.org/document/6352245)
 2. A MULTI-WEIGHTS MAP MATCHING ALGORITHM USED IN GPS SYSTEM FOR VEHICLE NAVIGATION APPLICATION, *2014 12th International Conference on Signal Processing,2014*,[paper](https://ieeexplore.ieee.org/document/7015419)
